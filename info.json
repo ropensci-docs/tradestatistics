@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "d4397b65b14ca906b9d0122865221eb9dd81680e",
+    "author": "Mauricio Vargas <mvargas@dcc.uchile.cl>",
+    "time": "2020-09-12 23:19:30",
+    "files": 75,
+    "merge": false,
+    "message": "edited year verification to be back on CRAN\n"
+  },
+  "remote": "https://github.com/ropensci/tradestatistics",
+  "pkg": "tradestatistics"
+}
