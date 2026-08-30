@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "4c0b85989f0085f4eb4c16eaefab6214b7854b6b",
+    "author": "Mauricio \"Pachá\" Vargas Sepúlveda <mavargas11@uc.cl>",
+    "time": "2024-08-23T12:21:21Z",
+    "files": 4,
+    "merge": true,
+    "message": "Merge pull request #77 from pachadotdev/master\n\nremove DO logo"
+  },
+  "repo": "https://github.com/ropensci/tradestatistics",
+  "pkg": "tradestatistics",
+  "time": "2026-08-30T07:32:07Z"
+}
